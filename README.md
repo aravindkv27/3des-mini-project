@@ -28,3 +28,9 @@ Keep the code and Image in same **Directory/Folder**. Run the python program the
 #### Decryption:
 
 Same as encryption, The Encrypted image should in same **Directory/folder**. Then, Run the python program the image will be decrypted. 
+
+#### Important Note
+
+The Image need to be encrypt must be in name of Image.jpg or Image.jpeg
+
+
