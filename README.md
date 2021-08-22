@@ -31,6 +31,6 @@ Same as encryption, The Encrypted image should in same **Directory/folder**. The
 
 #### Important Note
 
-The Image need to be encrypt must be in name of Image.jpg or Image.jpeg
+The Image need to be encrypt must be in name of image.jpg or image.jpeg
 
 
